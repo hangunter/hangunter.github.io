@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://hangunter.github.io/hangunter.txt.gz
+Sitemap: https://hangunter.github.io/app/hangunter.txt.gz
+Sitemap: https://hangunter.github.io/assets/hangunter.txt.gz
+Sitemap: https://hangunter.github.io/css/hangunter.txt.gz
+Sitemap: https://hangunter.github.io/includes/hangunter.txt.gz
+Sitemap: https://hangunter.github.io/item/hangunter.txt.gz
+Sitemap: https://hangunter.github.io/src/hangunter.txt.gz
